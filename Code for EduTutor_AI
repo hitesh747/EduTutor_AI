@@ -1,0 +1,22 @@
+from ibm_watsonx_ai.foundation_models import ModelInference
+
+model_id = "ibm/granite-3-8b-instruct"  
+project_id = "ce7c019d-e903-4766-aee3-b3e3c15574c9" 
+
+credentials = {
+    "url": "https://eu-de.ml.cloud.ibm.com",  
+    "apikey": "2-_Znw1m23l5wpIA38xc2NElPo4UC6L79JqnuJTxNoY3"  
+}
+
+model = ModelInference(
+    model_id=model_id,
+    params={"decoding_method": "greedy"},  
+    project_id=project_id,
+    credentials=credentials
+)
+
+prompt = "Explain the concept of AI to a 5-year-old-kid"
+
+response = model.generate(prompt)
+
+print("Generated Text:", response)
