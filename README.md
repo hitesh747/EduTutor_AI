@@ -28,7 +28,7 @@ Imagine if your toys could think and learn all by themselves, just like you do.
 IBM Watsonx - https://www.ibm.com/watsonx 
 IBM Granite Models Info - https://www.ibm.com/blog/ibm-granite-models
 
-# Try here - Colab Link : https://colab.research.google.com/github/hitesh747/EduTutor_AI/blob/main/EduTutor_AI_Notebook.ipynb
+# Try here - only in IBM cloud Pak/Watsonx : https://colab.research.google.com/github/hitesh747/EduTutor_AI/blob/main/EduTutor_AI_Notebook.ipynb
 
 ✍ Team ID - LTVIP2025TMID30127
 Team Leader - Dvs Hitesh
