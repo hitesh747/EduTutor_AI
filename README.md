@@ -32,3 +32,6 @@ IBM Granite Models Info - https://www.ibm.com/blog/ibm-granite-models
 
 ✍ Team ID - LTVIP2025TMID30127
 Team Leader - Dvs Hitesh
+
+⚠ Note: This notebook is designed to run in IBM Watsonx.ai / IBM Cloud Pak for Data environment.
+It may not work on platforms like Google Colab as IBM-specific libraries (ibm_watsonx_ai) are not available there.
