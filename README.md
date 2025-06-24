@@ -29,7 +29,7 @@ IBM Watsonx - https://www.ibm.com/watsonx
 IBM Granite Models Info - https://www.ibm.com/blog/ibm-granite-models
 
 # Try here
-only in IBM cloud Pak/Watsonx : https://colab.research.google.com/github/hitesh747/EduTutor_AI/blob/main/EduTutor_AI_Notebook.ipynb
+https://edututorai-k4cgrtu44eqfhxhmrr9rft.streamlit.app/
 
 ✍ Team ID - LTVIP2025TMID30127
 
@@ -41,5 +41,3 @@ Team member : Mahesh Reddy
 
 Team member : Bandla Mounika
 
-⚠ Note: This notebook is designed to run in IBM Watsonx.ai / IBM Cloud Pak for Data environment.
-It may not work on platforms like Google Colab as IBM-specific libraries (ibm_watsonx_ai) are not available there.
