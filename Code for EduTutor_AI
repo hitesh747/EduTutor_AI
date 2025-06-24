@@ -1,11 +1,11 @@
 from ibm_watsonx_ai.foundation_models import ModelInference
 
 model_id = "ibm/granite-3-8b-instruct"  
-project_id = "ce7c019d-e903-4766-aee3-b3e3c15574c9" 
+project_id = "e148ca84-35e1-433d-9d5e-a71c64c3def8" 
 
 credentials = {
     "url": "https://eu-de.ml.cloud.ibm.com",  
-    "apikey": "2-_Znw1m23l5wpIA38xc2NElPo4UC6L79JqnuJTxNoY3"  
+    "apikey": "bCDB66qGQ4GEdDAu6o6kQ-BM4iLenxHfXZDZCrwtMwKf"  
 }
 
 model = ModelInference(
