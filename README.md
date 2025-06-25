@@ -26,6 +26,7 @@ Imagine if your toys could think and learn all by themselves, just like you do.
  # Important Links
 
 IBM Watsonx - https://www.ibm.com/watsonx 
+
 IBM Granite Models Info - https://www.ibm.com/blog/ibm-granite-models
 
 # Try here
