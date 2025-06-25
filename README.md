@@ -1,29 +1,41 @@
 # EduTutor_AI
-EduTutor_AI - Personalized Learning using IBM Watsonx and Generative AI
+EduTutor AI - An AI-powered tutoring assistant built with Streamlit and IBM Watsonx foundation models. 
 
 # Project Overview
 This project demonstrates the use of IBM Watsonx AI's Granite-13B Instruct model to deliver personalized learning experiences. The AI model is capable of generating human-like responses based on given prompts.
 
 # 🛠 Tools & Technologies
-- IBM Cloud Pak for Data
-- IBM Watsonx.ai
+- Streamlit - Web-based UI
+- IBM Watsonx.ai - Foundation model for generating responses
 - IBM Granite 13B Instruct-v2 Model
-- Python
+- Python - Core Logic
 - Jupyter Notebook
 
 # 📋 Sample Prompt
-Explain the concept of AI to a 5-year-old-kid
+Explain the concept of gravity
 
 # 📋 Sample Output
-Imagine if your toys could think and learn all by themselves, just like you do.
+Gravity is a fundamental force of nature that plays a crucial role in the structure and evolution of the universe. It is the force responsible for the attraction between two objects with mass, causing them to be drawn towards each other. The concept of gravity has been studied extensively since ancient times, but it was Sir Isaac Newton who formulated the first comprehensive mathematical description of gravity in his law of universal gravitation.
 
-# How to Run the Notebook
+Newton's Law of Universal Gravitation states that every point mass attracts every other point mass by a force acting along the line intersecting both points. The magnitude of this force (F) is directly proportional to the product of the two masses (m1 and m2) and inversely proportional to the square of the distance (r) between their centers:
 
-1. Open IBM Watsonx.ai platform.
-2. Upload and open EduTutor_AI_Notebook.ipynb.
-3. Run the cells to generate AI responses for your educational prompts.
+F = G * (m1 * m2) / r^2.
 
- # Important Links
+# How to Run 
+
+1. Open the deployed link -> https://edututorai-k4cgrtu44eqfhxhmrr9rft.streamlit.app/
+2. Click Get Answer to get instant AI-powered answers.
+
+
+# Features
+
+- Ask academic questions on any topic.
+- Session memory for more natural conversations.
+- Clean and fast chat-based UI.
+- No login or installation needed.
+
+
+# Important Links
 
 IBM Watsonx - https://www.ibm.com/watsonx 
 
