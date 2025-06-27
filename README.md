@@ -1,6 +1,9 @@
 # EduTutor_AI
 EduTutor AI - An AI-powered tutoring assistant built with Streamlit and IBM Watsonx foundation models. 
 
+# Try here
+https://edututorai-k4cgrtu44eqfhxhmrr9rft.streamlit.app/
+
 # Project Overview
 This project demonstrates the use of IBM Watsonx AI's Granite-13B Instruct model to deliver personalized learning experiences. The AI model is capable of generating human-like responses based on given prompts.
 
